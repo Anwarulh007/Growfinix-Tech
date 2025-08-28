@@ -1,2 +1,2 @@
 # Growfinix-Tech
-Internship tasks and projects completed during the Growfinix Data Science Internship, including code implementations, documentation, and project reports.
+This repository contains all the tasks, assignments, and projects completed as part of the Growfinix Data Science Internship Program. It showcases practical applications of data science techniques, collaborative learning, and GitHub-based project management.
